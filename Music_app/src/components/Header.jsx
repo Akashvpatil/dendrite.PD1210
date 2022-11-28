@@ -1,0 +1,17 @@
+import React from 'react';
+
+import './header.css'
+
+function Header() {
+   
+  return (
+    <div className="header">
+     
+     <h1 className='mystyle'>THIS IS MY NEW MUSIC APP</h1>   
+    
+    
+    </div>
+  )
+}
+
+export default Header
